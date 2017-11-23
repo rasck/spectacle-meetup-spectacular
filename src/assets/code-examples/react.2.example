@@ -1,0 +1,22 @@
+<Slide transition={["slide"]} bgColor="secondary" align="flex-start center">
+  <Link href="https://medium.com/formidable-blog/first-impressions-with-the-web-s-latest-presentation-tool-spectacle-7fab1f057051">
+    <BlockQuote>
+      <Quote textSize="50" textColor="primary">
+        Spectacle, if you haven’t seen it, is another in a long line of HTML
+        presentation tools, but this one has rocketed into popularity
+      </Quote>
+      <Cite textColor="primary">Erik Bear</Cite>
+    </BlockQuote>
+  </Link>
+  <Notes>
+    <h4>Explain how the technology/concept differ</h4>
+    <ol>
+      <li>Give a short intro to related technologies/concepts</li>
+      <li>What makes the technology/concept in question special?</li>
+    </ol>
+    <p>
+      There are other html presentation tools out there but they are either more
+      complex or not react ;)
+    </p>
+  </Notes>
+</Slide>;

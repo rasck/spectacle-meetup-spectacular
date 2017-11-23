@@ -1,0 +1,16 @@
+<Slide transition={["zoom"]} bgColor="primary">
+  <Heading size={1} fit caps lineHeight={1} textColor="tertiary">
+    spectacle
+  </Heading>
+  <Text>
+    Made by <Image src="/images/formidable-logo.svg" />
+  </Text>
+  <Notes>
+    <ol>
+      <li>Present yourself</li>
+      <li>The company you work for?</li>
+      <li>Explain briefly the agenda of this presenation</li>
+      <li>How long time you intend to use</li>
+    </ol>
+  </Notes>
+</Slide>;
